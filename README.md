@@ -1,16 +1,9 @@
 # expenses_app
 
-A new Flutter project.
+Flutter expenses app, practiced:
+-MediaQuery
+-Themes
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Simple app to control your expenses, you can add new transaction, delete, and see overall expenses throughout the week
+![expapp](https://user-images.githubusercontent.com/116317644/209669297-73952a74-1376-4995-8f79-1638eaff8712.PNG)
